@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+form input, form textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+.task {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+}
